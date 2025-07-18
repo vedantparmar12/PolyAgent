@@ -1,0 +1,1 @@
+"""Test suite for Make It Heavy agent system."""

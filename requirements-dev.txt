@@ -1,0 +1,18 @@
+# Development dependencies
+pytest-asyncio
+pytest-cov
+pytest-mock
+pytest-watch
+black
+isort
+flake8
+bandit
+safety
+pre-commit
+ipython
+ipdb
+watchdog
+sphinx
+sphinx-rtd-theme
+mkdocs
+mkdocs-material
