@@ -15,7 +15,7 @@ import streamlit as st
 
 
 # Configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 
 async def demo_code_generation():
