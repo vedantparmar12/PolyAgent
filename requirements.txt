@@ -5,6 +5,8 @@ pyyaml
 ddgs
 pydantic
 pydantic-ai
+langgraph
+langchain-core
 pytest
 ruff
 mypy
