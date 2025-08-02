@@ -8,9 +8,9 @@ __pycache__/
 .venv
 env/
 venv/
-.claude
 
 # IDE
+
 .vscode/
 .idea/
 
